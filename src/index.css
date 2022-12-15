@@ -1,0 +1,7 @@
+body {
+  margin: 0 auto;
+  display: flex;
+  place-items: center;
+  align-items: center;
+  justify-content: center;
+}
